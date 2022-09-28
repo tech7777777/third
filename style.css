@@ -1,0 +1,24 @@
+a:hover{
+    background-color: black;
+}
+a:visited{
+    color: red;
+}
+p:active{
+    color: deeppink;
+}
+a:link{
+    color: orange;
+}
+.activities:first-child{
+    color:blue;
+    background-color: lime;
+    padding: 5px;
+    font-size: x-large;
+}
+.activities:last-child{
+    color: sienna;
+    background-color: blueviolet;
+    padding: 5px;
+    font-size: x-large;
+}
